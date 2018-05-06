@@ -48,7 +48,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1180px;
+  width:448px;
   height:800px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -63,7 +63,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1180px;
+  width:448px;
   height:800px;
 }
 #u1_text {
@@ -71,7 +71,7 @@
   position:absolute;
   left:2px;
   top:392px;
-  width:1176px;
+  width:444px;
   word-wrap:break-word;
 }
 #u2 {
