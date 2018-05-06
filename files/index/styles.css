@@ -101,10 +101,9 @@
 #u2_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:77px;
+  width:296px;
   word-wrap:break-word;
 }
 #u3 {
@@ -147,7 +146,10 @@
   height:800px;
   background:inherit;
   background-color:rgba(204, 204, 204, 1);
-  border:none;
+  box-sizing:border-box;
+  border-width:4px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -201,7 +203,8 @@
 }
 #u6 {
   position:fixed;
-  left:0px;
+  left:50%;
+  margin-left:-590px;
   top:0px;
   width:1180px;
   height:101px;
